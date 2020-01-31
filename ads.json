@@ -1,5 +1,6 @@
-{
-  [
-    {"img": "https://www.hotnews.ro/images/new/logo.gif"}
-  ]
-}
+[
+    {
+      "img": "https://www.hotnews.ro/images/new/logo.gif",
+      "link": "https://www.hotnews.ro/"
+    }
+]
