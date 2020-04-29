@@ -1,15 +1,31 @@
 [
-    {
-      "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/m300x250_88736_1579780160.jpg",
-      "link": "https://l.profitshare.ro/l/7317522"
-    },
-    {
-      "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/300x250_35_1580390652.jpg",
-      "link": "https://l.profitshare.ro/l/7317520"
-    },
-    {
-      "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/_martisoare_afiliat_1__118189_1583146794.png",
-      "link": "https://l.profitshare.ro/l/7317530"
-    }
+    "ads": [
+        {
+          "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/m300x250_88736_1587993065.jpg",
+          "link": "https://l.profitshare.ro/l/7478236"
+        },
+        {
+          "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/w300x250_88736_1587993256.jpg",
+          "link": "https://l.profitshare.ro/l/7478232"
+        },
+        {
+          "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/300x250_2_35_1587562244.jpg",
+          "link": "https://l.profitshare.ro/l/7478237"
+        }
+    ],
+    "anunturi": [
+        {
+            "title": "",
+            "link": "",
+        },
+        {
+            "title": "",
+            "link": "",
+        },
+        {
+            "title": "",
+            "link": "",
+        }
+    ]
 ]
 
