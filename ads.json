@@ -1,5 +1,5 @@
 {
-    ads: [
+    "ads": [
         {
           "img": "https://app.profitshare.ro/images/advertiser_widgets_shared/m300x250_88736_1587993065.jpg",
           "link": "https://l.profitshare.ro/l/7478236"
@@ -13,7 +13,7 @@
           "link": "https://l.profitshare.ro/l/7478237"
         }
     ],
-    anunturi: [
+    "anunturi": [
         {
             "title": "",
             "link": "",
