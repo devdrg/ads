@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /ads.json
+Disallow: /stats.html
+Disallow: /mail.png
